@@ -1,3 +1,0 @@
-# mygitactions
-
-test writing
